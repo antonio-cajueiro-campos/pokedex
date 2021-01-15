@@ -21,6 +21,7 @@ export default {
 }
 .pokebox {
 	border: 2px solid black;
+	border-radius: 5px;
 	background: rgb(233, 233, 233);
 	margin: 5px;
 	padding: 0;
