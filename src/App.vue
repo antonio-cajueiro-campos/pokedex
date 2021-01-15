@@ -83,12 +83,6 @@ header {
   width: 100%;
   z-index: 5;
 }
-.titulo {
-  color: white;
-  font-family: cursive;
-  margin: 15px auto;
-  font-size: 28px;
-}
 header > h1 {
   margin: 0;
   color: white;
